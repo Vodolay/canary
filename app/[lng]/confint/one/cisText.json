@@ -1,0 +1,46 @@
+{ 
+  "en": {
+    "leftTitle": "Large Sample Confidence Intervals",
+    "blob": "Confidence intervals estimate a parameter by specifying a range of possible values. Such an interval is associated with a confidence level, which is the probability that the procedure used to generate the interval will produce an interval containing the true parameter.",
+    "chooseDist": "Choose a probability distribution to sample from:",
+    "buttonChoose": "Select a distribution",
+    "chooseSize": "Choose a sample size ",
+    "chooseLevel": " and confidence level ",
+    "startSampling": "Start Sampling",
+    "stopSampling": "Stop Sampling",
+    "samplingSpeed": "Samples per second",
+    "rightTitle": "It is raining samples!",
+    "graphTitle": "Confidence Intervals containing the mean",
+    "choiceDist": [
+      { "key": 1, "label": "Standard Normal" },
+      { "key": 2, "label": "Student t, 5 d.f." },
+      { "key": 3, "label": "Exponential, rate = 0.5" },
+      { "key": 4, "label": "Pareto, shape = 1.5" }
+    ],
+    "density": "density",
+    "estimate": "estimate"
+  },
+    
+  "fr": {
+    "leftTitle": "Intervalle de confiance pour un grand échantillon",
+    "blob": "Les intervalles de confiance estiment un paramètre en spécifiant une plage de valeurs possibles. Un tel intervalle est associé à un niveau de confiance, qui est la probabilité que la procédure utilisée pour générer l'intervalle produise un intervalle contenant le vrai paramètre.",
+    "chooseDist": "Choisissez une distribution de probabilité à partir de laquelle échantillonner:",
+    "buttonChoose": "Sélectionnez une distribution",
+    "chooseSize": "Choisissez une taille d'échantillon ",
+    "chooseLevel": " et niveau de confiance ",
+    "startSampling": "Commencer l'échantillonnage",
+    "stopSampling": "Arrêter l'échantillonnage",
+    "samplingSpeed": "Échantillons par seconde",
+    "rightTitle": "Il pleut des échantillons!",
+    "graphTitle": "Intervalle de confiance contenant la moyenne",
+    "choiceDist": [
+      { "key": 1, "label": "Normale standard" },
+      { "key": 2, "label": "Student t, 5 d.l." },
+      { "key": 3, "label": "Exponentielle, taux = 0.5" },
+      { "key": 4, "label": "Pareto, forme = 1.5" }
+    ],
+    "density": "densité",
+    "estimate": "estimation"
+  }
+}
+
